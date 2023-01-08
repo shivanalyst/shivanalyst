@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Hi, I am Shivesh, having keen interest in Data Science. 
 Currently working as a Data Analyst. 
-Learning Open CV and would like to work on projects requiring Computer Vision.
+Learning Open CV and would like to work on projects which will enable me in providing recommendation to the businesses.
 
 
 ## 🔗 Links
